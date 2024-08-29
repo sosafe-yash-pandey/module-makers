@@ -28,6 +28,7 @@ dist-ssr
 
 # Ignore dist folders in all workspaces
 **/dist
+**/.npmrc
 
 # Ignore any additional temporary or build folders (optional)
 **/build
